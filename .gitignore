@@ -1,0 +1,6 @@
+target/
+build-check/
+models/*.xml
+.idea/
+.vscode/
+*.log
